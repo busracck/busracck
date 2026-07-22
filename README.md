@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Merhaba, ben Büşra Çiçek
 
-<!--
-**busracck/busracck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bilgisayar Mühendisiyim.
 
-Here are some ideas to get you started:
+Python, veri analizi ve yapay zeka tabanlı uygulamalar geliştirmeyi seviyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 İlgi Alanlarım
+
+- 🐍 Python
+- 📊 Veri Analizi
+- 🤖 Yapay Zeka
+- 🧠 LLM Tabanlı Uygulamalar
+- 🌐 REST API
+- ⚡ FastAPI
+- 🗄️ SQL
+
+---
+
+## 🛠️ Teknolojiler
+
+- Python
+- Pandas
+- NumPy
+- Streamlit
+- FastAPI
+- SQL
+- Git & GitHub
+- Docker (Öğreniyorum)
