@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Engineer;Python+Developer;Data+Analyst;AI+Enthusiast;LLM+Application+Developer)](https://git.io/typing-svg)
 # 👋 Merhaba, ben Büşra Çiçek
 
-### 💻 Bilgisayar Mühendisi | Veri Analisti | AI Enthusiast
+### 💻 Computer Engineer | Data Analyst | AI Enthusiast | Frontend Developer
 
 Python ile veri analizi, yapay zeka ve LLM tabanlı uygulamalar geliştiriyorum. Gerçek problemleri çözen projeler üretmeyi ve sürekli yeni teknolojiler öğrenmeyi seviyorum.
 
