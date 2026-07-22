@@ -19,6 +19,3 @@ Python ile veri analizi, yapay zeka ve LLM tabanlı uygulamalar geliştiriyorum.
 ---
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busracck&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busracck&layout=compact&theme=tokyonight)
