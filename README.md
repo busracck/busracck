@@ -25,3 +25,7 @@ Python ile veri analizi, yapay zeka ve LLM tabanlı uygulamalar geliştiriyorum.
 Python, Streamlit, Open-Meteo API, Geoapify API ve LLM kullanılarak geliştirilen hava analizi ve mekan öneri sistemi.
 
 🔗 https://github.com/busracck/weather-ai-assistant
+## 📊 GitHub İstatistikleri
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busracck&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busracck&layout=compact&theme=tokyonight)
