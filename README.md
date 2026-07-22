@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Engineer;Python+Developer;Data+Analyst;AI+Enthusiast;LLM+Application+Developer)](https://git.io/typing-svg)
 # 👋 Merhaba, ben Büşra Çiçek
 
-### 💻 Bilgisayar Mühendisi | Python Developer | Veri Analisti | AI Enthusiast
+### 💻 Bilgisayar Mühendisi | Veri Analisti | AI Enthusiast
 
 Python ile veri analizi, yapay zeka ve LLM tabanlı uygulamalar geliştiriyorum. Gerçek problemleri çözen projeler üretmeyi ve sürekli yeni teknolojiler öğrenmeyi seviyorum.
 
@@ -18,14 +18,7 @@ Python ile veri analizi, yapay zeka ve LLM tabanlı uygulamalar geliştiriyorum.
 
 ---
 
-## 📌 Öne Çıkan Proje
 
-### 🌦️ AI Weather & Place Recommendation
-
-Python, Streamlit, Open-Meteo API, Geoapify API ve LLM kullanılarak geliştirilen hava analizi ve mekan öneri sistemi.
-
-🔗 https://github.com/busracck/weather-ai-assistant
-## 📊 GitHub İstatistikleri
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busracck&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busracck&layout=compact&theme=tokyonight)
